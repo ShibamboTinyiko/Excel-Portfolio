@@ -2,6 +2,7 @@
 This holds all Excel related projects 
 
 1.Bike Sales Project 
+
 Data cleaning process and dashboard creation in Excel (credit to Alex Freberg for the data)
 
 Format the dataset (Excel sheet) into Table format Data cleanining process:
