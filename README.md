@@ -1,2 +1,2 @@
 # Excel-Portfolio
-This will hold all Excel related projects 
+This holds all Excel related projects 
